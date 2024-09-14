@@ -13,11 +13,11 @@ In the game, players need to combine tiles with matching numbers to reach the el
 
 Contains the game logo, a dynamic score block that updates with each tile move, and a button that toggles between "Start" and "Reset" depending on the game status.
 
-#### Game Field
+- #### Game Field
 
 Displaying a 4x4 grid where players merge tiles by swiping in various directions. Each tile shows a number that doubles when combined with another tile of the same number.
 
-#### Notification Section
+- #### Notification Section
 
 Displays useful information and prompts, such as "Press 'Start' to begin the game. Good luck!" and other relevant messages to guide and inform players throughout their gameplay.
 
